@@ -29,11 +29,7 @@ Ouvrir : `test-edge-secrets.html`
 **Si erreur "Missing AI API keys" :**
 1. Allez sur https://supabase.com/dashboard/project/ufdhzgqrubbnornjdvgv
 2. Settings → Edge Functions → Secrets
-3. Ajoutez :
-   - `DEEPSEEK_API_KEY` = `sk-401fbd42cf00493b8c28db07f3027460`
-   - `OPENAI_API_KEY` = `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`
 
----
 
 #### 3️⃣ **Test Rapide avec Logs Détaillés**
 
